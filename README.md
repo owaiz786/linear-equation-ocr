@@ -77,11 +77,7 @@ y = 1
 
 ---
 
-## 🙋‍♂️ Author
 
-Made with ❤️ by [Your Name](https://github.com/yourusername)
-
----
 
 ## 📸 Screenshots
 
